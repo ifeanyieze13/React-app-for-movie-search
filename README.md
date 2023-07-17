@@ -1,8 +1,9 @@
 # React-app-for-movie-search
 
 Description
-This is a simple React application that uses the endpoints created by my dot net movie search application.#
+This is a simple React application that uses the endpoints created by my dot net movie search application.
 This app provides an interface that enables you to search for a movie, see the search results, and also view the history of your last five searches.
+The components are written in typescript and use vanilla css.
 
 **First Interface on Launch**
 ![image](https://github.com/ifeanyieze13/React-app-for-movie-search/assets/65629454/9f9ab333-ba2a-4578-9dea-d6d1ea25f8ef)
